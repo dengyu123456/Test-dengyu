@@ -1,4 +1,4 @@
-package adapter_适配器模式;
+package 适配器_策略_状态.adapter_适配器模式;
 
 /**
  * 双插接口

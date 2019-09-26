@@ -1,5 +1,8 @@
-package adapter_适配器模式;
+package 适配器_策略_状态.adapter_适配器模式;
 
+/**
+ * 墙上的三插接口
+ */
 public interface TriplePin {
     /**
      * @param l 火线live
